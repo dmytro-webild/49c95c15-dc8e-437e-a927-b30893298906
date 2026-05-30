@@ -74,7 +74,7 @@ export default function LandingPage() {
           description: "Indulge in a culinary journey with our exquisite menu of local and international dishes.",
           bentoComponent: "reveal-icon",
           icon: Crown,
-          imageSrc: "http://img.b2bpic.net/free-photo/young-woman-new-york-city-daytime_23-2149488519.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/young-woman-new-york-city-daytime_23-2149488519.jpg?_wi=3",
           imageAlt: "restaurant icon dining cutlery",
         },
         {
@@ -82,7 +82,7 @@ export default function LandingPage() {
           description: "Perfect venue for meetings, conferences, and social gatherings.",
           bentoComponent: "reveal-icon",
           icon: Building,
-          imageSrc: "http://img.b2bpic.net/free-photo/sofa-pillow_74190-1207.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/sofa-pillow_74190-1207.jpg?_wi=3",
           imageAlt: "restaurant icon dining cutlery",
         },
         {
@@ -90,7 +90,7 @@ export default function LandingPage() {
           description: "Ample and safe parking spaces available for all hotel residents.",
           bentoComponent: "reveal-icon",
           icon: Car,
-          imageSrc: "http://img.b2bpic.net/free-photo/contemplated-young-woman-sitting-restaurant-table-with-digital-tablet-cellphone-diary_23-2147936104.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/contemplated-young-woman-sitting-restaurant-table-with-digital-tablet-cellphone-diary_23-2147936104.jpg?_wi=3",
           imageAlt: "restaurant icon dining cutlery",
         },
         {
@@ -98,7 +98,7 @@ export default function LandingPage() {
           description: "Arrange your arrival and departure with our reliable airport shuttle service.",
           bentoComponent: "reveal-icon",
           icon: Globe,
-          imageSrc: "http://img.b2bpic.net/free-photo/view-from-side-sweet-fruits-standing-plate_132075-13636.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/view-from-side-sweet-fruits-standing-plate_132075-13636.jpg?_wi=3",
           imageAlt: "restaurant icon dining cutlery",
         },
         {
@@ -106,7 +106,7 @@ export default function LandingPage() {
           description: "Our friendly staff is always on hand to assist with any requests or queries.",
           bentoComponent: "reveal-icon",
           icon: CalendarClock,
-          imageSrc: "http://img.b2bpic.net/free-photo/luxurious-look-set-round-table_8353-9924.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/luxurious-look-set-round-table_8353-9924.jpg?_wi=3",
           imageAlt: "restaurant icon dining cutlery",
         },
         {
@@ -114,7 +114,7 @@ export default function LandingPage() {
           description: "Enjoy dining in the comfort of your room with our extensive room service menu.",
           bentoComponent: "reveal-icon",
           icon: Bell,
-          imageSrc: "http://img.b2bpic.net/free-photo/outdoor-massage-bed_1339-4790.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/outdoor-massage-bed_1339-4790.jpg?_wi=2",
           imageAlt: "restaurant icon dining cutlery",
         },
         {
@@ -122,7 +122,7 @@ export default function LandingPage() {
           description: "Keep your wardrobe fresh with our efficient and reliable laundry facilities.",
           bentoComponent: "reveal-icon",
           icon: Droplet,
-          imageSrc: "http://img.b2bpic.net/free-photo/asian-woman-enjoying-with-breakfast-bed_74190-9853.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/asian-woman-enjoying-with-breakfast-bed_74190-9853.jpg?_wi=2",
           imageAlt: "restaurant icon dining cutlery",
         },
         {
@@ -130,7 +130,7 @@ export default function LandingPage() {
           description: "Your safety and peace of mind are our priority with 24/7 security surveillance.",
           bentoComponent: "reveal-icon",
           icon: ShieldCheck,
-          imageSrc: "http://img.b2bpic.net/free-photo/front-view-large-transparent-window-with-opened-door-outside-which-newlyweds-posing-embracing-balcony-their-wedding-day_8353-12102.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/front-view-large-transparent-window-with-opened-door-outside-which-newlyweds-posing-embracing-balcony-their-wedding-day_8353-12102.jpg?_wi=2",
           imageAlt: "restaurant icon dining cutlery",
         },
       ]}
