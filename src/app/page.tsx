@@ -74,27 +74,27 @@ export default function LandingPage() {
       ]}
       mediaItems={[
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/young-woman-new-york-city-daytime_23-2149488519.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/young-woman-new-york-city-daytime_23-2149488519.jpg?_wi=1",
           imageAlt: "Luxury hotel lobby",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/sofa-pillow_74190-1207.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/sofa-pillow_74190-1207.jpg?_wi=1",
           imageAlt: "Luxurious hotel room",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/contemplated-young-woman-sitting-restaurant-table-with-digital-tablet-cellphone-diary_23-2147936104.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/contemplated-young-woman-sitting-restaurant-table-with-digital-tablet-cellphone-diary_23-2147936104.jpg?_wi=1",
           imageAlt: "Hotel swimming pool",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/view-from-side-sweet-fruits-standing-plate_132075-13636.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/view-from-side-sweet-fruits-standing-plate_132075-13636.jpg?_wi=1",
           imageAlt: "Hotel restaurant",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/luxurious-look-set-round-table_8353-9924.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/luxurious-look-set-round-table_8353-9924.jpg?_wi=1",
           imageAlt: "Hotel conference hall",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/outdoor-massage-bed_1339-4790.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/outdoor-massage-bed_1339-4790.jpg?_wi=1",
           imageAlt: "Hotel exterior view",
         },
       ]}
@@ -114,7 +114,7 @@ export default function LandingPage() {
           name: "Standard Room",
           price: "ETB 1,500/night",
           variant: "Cozy & Comfortable",
-          imageSrc: "http://img.b2bpic.net/free-photo/asian-woman-enjoying-with-breakfast-bed_74190-9853.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/asian-woman-enjoying-with-breakfast-bed_74190-9853.jpg?_wi=1",
           imageAlt: "Standard Room",
         },
         {
@@ -122,7 +122,7 @@ export default function LandingPage() {
           name: "Deluxe Room",
           price: "ETB 2,500/night",
           variant: "Spacious & Elegant",
-          imageSrc: "http://img.b2bpic.net/free-photo/front-view-large-transparent-window-with-opened-door-outside-which-newlyweds-posing-embracing-balcony-their-wedding-day_8353-12102.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/front-view-large-transparent-window-with-opened-door-outside-which-newlyweds-posing-embracing-balcony-their-wedding-day_8353-12102.jpg?_wi=1",
           imageAlt: "Deluxe Room",
         },
         {
@@ -188,7 +188,7 @@ export default function LandingPage() {
           description: "Savor exquisite Ethiopian and international cuisine at our on-site restaurant.",
           bentoComponent: "reveal-icon",
           icon: Utensils,
-          imageSrc: "http://img.b2bpic.net/free-photo/young-woman-new-york-city-daytime_23-2149488519.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/young-woman-new-york-city-daytime_23-2149488519.jpg?_wi=2",
           imageAlt: "wifi icon signal internet",
         },
         {
@@ -196,7 +196,7 @@ export default function LandingPage() {
           description: "Host your business meetings or special events in our fully equipped conference facilities.",
           bentoComponent: "reveal-icon",
           icon: Building,
-          imageSrc: "http://img.b2bpic.net/free-photo/sofa-pillow_74190-1207.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/sofa-pillow_74190-1207.jpg?_wi=2",
           imageAlt: "wifi icon signal internet",
         },
         {
@@ -204,7 +204,7 @@ export default function LandingPage() {
           description: "Convenient and secure parking available for all our guests.",
           bentoComponent: "reveal-icon",
           icon: Car,
-          imageSrc: "http://img.b2bpic.net/free-photo/contemplated-young-woman-sitting-restaurant-table-with-digital-tablet-cellphone-diary_23-2147936104.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/contemplated-young-woman-sitting-restaurant-table-with-digital-tablet-cellphone-diary_23-2147936104.jpg?_wi=2",
           imageAlt: "wifi icon signal internet",
         },
         {
@@ -212,7 +212,7 @@ export default function LandingPage() {
           description: "Enjoy hassle-free transfers from/to the airport for a smooth arrival and departure.",
           bentoComponent: "reveal-icon",
           icon: Car,
-          imageSrc: "http://img.b2bpic.net/free-photo/view-from-side-sweet-fruits-standing-plate_132075-13636.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/view-from-side-sweet-fruits-standing-plate_132075-13636.jpg?_wi=2",
           imageAlt: "wifi icon signal internet",
         },
         {
@@ -220,7 +220,7 @@ export default function LandingPage() {
           description: "Our dedicated staff is available around the clock to assist you with any needs.",
           bentoComponent: "reveal-icon",
           icon: Building,
-          imageSrc: "http://img.b2bpic.net/free-photo/luxurious-look-set-round-table_8353-9924.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/luxurious-look-set-round-table_8353-9924.jpg?_wi=2",
           imageAlt: "wifi icon signal internet",
         },
       ]}
